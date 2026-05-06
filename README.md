@@ -1,2 +1,2 @@
 # steganosaurus.
-Steganography automation with Python 
+Image Steganography automation with Python 
